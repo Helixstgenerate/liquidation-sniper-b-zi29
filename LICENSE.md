@@ -1,4 +1,4 @@
-# 
+# elite liquidation sniper bot Plugin | arbitrage-scanning + futures-arbitrage is the best liquidation sniper bot, featuring arbitrage-scanning and futures-arbitrage. Smart, fast,
 
 
 
